@@ -10,6 +10,6 @@ def join_nested_strings(src)
       element_index += 1
     end 
   end
-  
+  sorted_array.join
 
 end
